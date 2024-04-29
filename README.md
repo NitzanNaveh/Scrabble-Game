@@ -1,4 +1,5 @@
-Scrabble Game
+### Scrabble Game
+
 -This is a Java implementation of the classic word game Scrabble. Players take turns forming words on a board, earning points based on the letters used and their placement on the board.
 
 ### Features
