@@ -7,4 +7,6 @@ Scoring System: Points are calculated based on the letters used and their placem
 Bag and Racks: Letters are drawn from a bag and placed on each player's rack for letter management.
 Computer Player: A computer player is included for single-player mode.
 Requirements
+To run this Scrabble game, ensure you have the following:
+
 Java Development Kit (JDK) installed
